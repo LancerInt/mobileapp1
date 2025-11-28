@@ -1,0 +1,19 @@
+{
+  "factoryVideos": [
+    {
+      "id": "vid_1",
+      "title": "Factory Overview",
+      "videoResName": "vid_factory_overview"
+    }
+  ],
+  "factoryPhotos": [
+    {"id": "img_1", "title": "Factory Exterior", "imageName": "img_factory_ext"},
+    {"id": "img_2", "title": "Production Line", "imageName": "img_factory_line"}
+  ],
+  "productPhotos": [
+    {"id": "img_3", "title": "Product Shot", "imageName": "img_product_1"}
+  ],
+  "dispatchPhotos": [
+    {"id": "img_4", "title": "Dispatch", "imageName": "img_dispatch_1"}
+  ]
+}

@@ -1,0 +1,18 @@
+[
+  {
+    "id": "csr_1",
+    "title": "Tree Plantation Drive",
+    "date": "2025-01-15",
+    "description": "Planted 500 trees near the industrial zone.",
+    "imageNames": ["csr_tree_1", "csr_tree_2"],
+    "year": 2025
+  },
+  {
+    "id": "csr_2",
+    "title": "Community Health Camp",
+    "date": "2024-11-20",
+    "description": "Free health checkups for local communities. // TODO: Replace with details from website CSR section.",
+    "imageNames": ["csr_health_1"],
+    "year": 2024
+  }
+]

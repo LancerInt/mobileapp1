@@ -1,0 +1,20 @@
+[
+  {
+    "id": "tech_1",
+    "title": "Karyo",
+    "summary": "Placeholder summary for Karyo platform.",
+    "details": "// TODO: Replace with detailed Karyo description from website.",
+    "highlights": ["High throughput", "Scalable", "Data-driven"],
+    "imageName": "ic_karyo",
+    "type": "Karyo"
+  },
+  {
+    "id": "tech_2",
+    "title": "Wynn",
+    "summary": "Placeholder summary for Wynn platform.",
+    "details": "// TODO: Replace with detailed Wynn description from website.",
+    "highlights": ["Energy efficient", "Low footprint"],
+    "imageName": "ic_wynn",
+    "type": "Wynn"
+  }
+]

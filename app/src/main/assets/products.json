@@ -1,0 +1,22 @@
+[
+  {
+    "id": "prod_1",
+    "name": "Bio Nutrient A",
+    "category": "Agriculture",
+    "shortDescription": "High quality nutrient blend.",
+    "fullDescription": "Detailed offline description of Bio Nutrient A. // TODO: Replace with real product copy from website.",
+    "applications": ["Soil conditioning", "Yield improvement"],
+    "specs": {"pH": "6.5", "Form": "Liquid"},
+    "imageName": "ic_product_placeholder"
+  },
+  {
+    "id": "prod_2",
+    "name": "Bio Catalyst B",
+    "category": "Industrial",
+    "shortDescription": "Catalyst for efficient processing.",
+    "fullDescription": "// TODO: Replace with full description from site product page.",
+    "applications": ["Fermentation", "Processing aid"],
+    "specs": {"Activity": "High", "ShelfLife": "12 months"},
+    "imageName": "ic_product_placeholder"
+  }
+]
