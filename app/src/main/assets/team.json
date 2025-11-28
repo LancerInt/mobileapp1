@@ -1,0 +1,16 @@
+[
+  {
+    "id": "team_1",
+    "name": "Dr. A. Founder",
+    "role": "Founder & CEO",
+    "photoName": "ic_team_placeholder",
+    "bio": "// TODO: Replace with full bio from website. Passionate about bioscience innovation."
+  },
+  {
+    "id": "team_2",
+    "name": "Ms. B. Scientist",
+    "role": "Head of R&D",
+    "photoName": "ic_team_placeholder",
+    "bio": "Expert in fermentation and process optimization."
+  }
+]
