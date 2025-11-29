@@ -30,12 +30,12 @@ class LocalJsonRepository(private val context: Context, private val gson: Gson =
 
     // Contact info can be static or also loaded via JSON if preferred
     fun getContactInfo(): ContactInfo = ContactInfo(
-        corporateAddress = "123 Placeholder Corporate Park, City, Country",
+        corporateAddress = "Kriya Biosys Pvt. Ltd., A-26, Sector 83, Noida, Uttar Pradesh 201305",
         factoryAddresses = listOf(
-            "Factory 1: Industrial Area, City, Country",
-            "Factory 2: Export Zone, City, Country"
+            "Integrated Fermentation Facility: Malur, Bengaluru Rural, Karnataka",
+            "Processing & Packing: Sriperumbudur Industrial Area, Tamil Nadu"
         ),
-        phones = listOf("+91 12345 67890", "+91 98765 43210"),
+        phones = listOf("+91 98804 10077", "+91 99102 13618"),
         emails = listOf("info@kriyabiosys.com", "sales@kriyabiosys.com"),
         qrImageName = "ic_map_qr"
     )

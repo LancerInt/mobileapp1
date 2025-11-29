@@ -1,22 +1,32 @@
 [
   {
     "id": "prod_1",
-    "name": "Bio Nutrient A",
-    "category": "Agriculture",
-    "shortDescription": "High quality nutrient blend.",
-    "fullDescription": "Detailed offline description of Bio Nutrient A. // TODO: Replace with real product copy from website.",
-    "applications": ["Soil conditioning", "Yield improvement"],
-    "specs": {"pH": "6.5", "Form": "Liquid"},
-    "imageName": "ic_product_placeholder"
+    "name": "Karyo Bio Fertilizer",
+    "category": "Agri Inputs",
+    "shortDescription": "Consortium biofertilizer supporting nutrient uptake and soil vitality.",
+    "fullDescription": "Karyo delivers a balanced microbial consortium that enhances root vigor, nutrient solubilization, and crop resilience across cereals, pulses, and horticulture.",
+    "applications": ["Seed treatment", "Soil drench", "Drip fertigation"],
+    "specs": {"Form": "Liquid", "ShelfLife": "12 months", "Storage": "Cool, dry place"},
+    "imageName": "img_product_karyo"
   },
   {
     "id": "prod_2",
-    "name": "Bio Catalyst B",
-    "category": "Industrial",
-    "shortDescription": "Catalyst for efficient processing.",
-    "fullDescription": "// TODO: Replace with full description from site product page.",
-    "applications": ["Fermentation", "Processing aid"],
-    "specs": {"Activity": "High", "ShelfLife": "12 months"},
-    "imageName": "ic_product_placeholder"
+    "name": "Wynn Enzyme Blend",
+    "category": "Industrial Bio Catalyst",
+    "shortDescription": "High-activity enzyme complex for efficient bioprocessing.",
+    "fullDescription": "Wynn optimizes fermentation cycles, improves substrate conversion, and lowers energy loads in food and feed manufacturing lines.",
+    "applications": ["Fermentation efficiency", "Viscosity reduction", "Yield uplift"],
+    "specs": {"Activity": "Multi-enzyme", "Operating pH": "5.5 - 7.5", "Temperature": "25-45°C"},
+    "imageName": "img_product_wynn"
+  },
+  {
+    "id": "prod_3",
+    "name": "Probiotic Premix",
+    "category": "Nutraceutical",
+    "shortDescription": "Stabilized probiotic formulation for capsules and sachets.",
+    "fullDescription": "Multi-strain probiotic premix manufactured under controlled conditions to deliver reliable CFU counts for nutraceutical brands.",
+    "applications": ["Capsules", "Sachets", "Functional foods"],
+    "specs": {"CFU": ">=10^9/g", "Moisture": "<5%", "Packaging": "Foil laminate"},
+    "imageName": "img_product_probiotic"
   }
 ]

@@ -85,7 +85,13 @@ fun KriyaNavHost(navController: NavHostController = rememberNavController()) {
         NavHost(navController = navController, startDestination = Screen.Home.route, modifier = androidx.compose.ui.Modifier.padding(padding)) {
             composable(Screen.Home.route) {
                 val vm: HomeViewModel = viewModel()
-                HomeScreen(vm)
+                HomeScreen(vm) { route ->
+                    navController.navigate(route) {
+                        popUpTo(navController.graph.findStartDestination().id) { saveState = true }
+                        launchSingleTop = true
+                        restoreState = true
+                    }
+                }
             }
             composable(Screen.About.route) { AboutScreen() }
             composable(Screen.Products.route) {
