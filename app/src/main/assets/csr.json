@@ -1,0 +1,26 @@
+[
+  {
+    "id": "csr_1",
+    "title": "Tree Plantation Drive",
+    "date": "2024-07-15",
+    "description": "Planted native saplings around the industrial belt to improve the green cover and groundwater recharge.",
+    "imageNames": ["img_csr_tree", "img_csr_team"],
+    "year": 2024
+  },
+  {
+    "id": "csr_2",
+    "title": "Health & Wellness Camp",
+    "date": "2024-11-20",
+    "description": "Partnered with local clinics to provide free health screenings and nutrition guidance for nearby communities.",
+    "imageNames": ["img_csr_health"],
+    "year": 2024
+  },
+  {
+    "id": "csr_3",
+    "title": "STEM Outreach",
+    "date": "2025-02-10",
+    "description": "Hosted lab tours and workshops for students to showcase bioprocessing careers and safety practices.",
+    "imageNames": ["img_csr_students"],
+    "year": 2025
+  }
+]

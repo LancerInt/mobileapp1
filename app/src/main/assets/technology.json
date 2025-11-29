@@ -1,0 +1,28 @@
+[
+  {
+    "id": "tech_1",
+    "title": "Karyo",
+    "summary": "Platform focused on microbial consortia for soil health and crop resilience.",
+    "details": "Karyo leverages precision fermentation and strain optimization to deliver biofertilizers that enhance nutrient cycling, root development, and tolerance to abiotic stress.",
+    "highlights": [
+      "Field-tested across multiple crops",
+      "Microbial balance for soil regeneration",
+      "Compatible with standard agronomic practices"
+    ],
+    "imageName": "img_karyo",
+    "type": "Karyo"
+  },
+  {
+    "id": "tech_2",
+    "title": "Wynn",
+    "summary": "High-efficiency enzyme and biocatalyst stack for industrial lines.",
+    "details": "Wynn focuses on throughput, viscosity reduction, and cleaner conversions—helping partners lower steam consumption and achieve tighter product specifications.",
+    "highlights": [
+      "Multi-enzyme synergy",
+      "Energy and time savings",
+      "Consistent batch-to-batch performance"
+    ],
+    "imageName": "img_wynn",
+    "type": "Wynn"
+  }
+]

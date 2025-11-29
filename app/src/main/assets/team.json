@@ -1,0 +1,23 @@
+[
+  {
+    "id": "team_1",
+    "name": "Dr. Aravind Narayanan",
+    "role": "Founder & CEO",
+    "photoName": "img_team_ceo",
+    "bio": "Bioprocess engineer with two decades of experience scaling fermentation-based ingredients for global customers."
+  },
+  {
+    "id": "team_2",
+    "name": "Dr. Meera Kulkarni",
+    "role": "Head of R&D",
+    "photoName": "img_team_rd",
+    "bio": "Leads strain development, analytics, and application trials across agri, food, and nutraceutical programs."
+  },
+  {
+    "id": "team_3",
+    "name": "Rahul Menon",
+    "role": "Operations Director",
+    "photoName": "img_team_ops",
+    "bio": "Oversees manufacturing excellence, EHS, and supply chain to keep batches reliable and on schedule."
+  }
+]

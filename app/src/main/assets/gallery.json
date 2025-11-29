@@ -1,0 +1,19 @@
+{
+  "factoryVideos": [
+    {
+      "id": "vid_1",
+      "title": "Factory Overview",
+      "videoResName": "vid_factory_overview"
+    }
+  ],
+  "factoryPhotos": [
+    {"id": "img_1", "title": "Factory Exterior", "imageName": "img_factory_exterior"},
+    {"id": "img_2", "title": "Fermentation Suite", "imageName": "img_factory_suite"}
+  ],
+  "productPhotos": [
+    {"id": "img_3", "title": "Finished Goods", "imageName": "img_product_packed"}
+  ],
+  "dispatchPhotos": [
+    {"id": "img_4", "title": "Dispatch", "imageName": "img_dispatch_truck"}
+  ]
+}

@@ -1,0 +1,23 @@
+[
+  {
+    "id": "doc_1",
+    "title": "Karyo Bio Fertilizer COA",
+    "type": "COA",
+    "fileName": "karyo_coa.pdf",
+    "description": "Certificate of Analysis for Karyo batch release."
+  },
+  {
+    "id": "doc_2",
+    "title": "Wynn MSDS",
+    "type": "MSDS",
+    "fileName": "wynn_msds.pdf",
+    "description": "Material Safety Data Sheet summarizing handling and safety guidance."
+  },
+  {
+    "id": "doc_3",
+    "title": "Probiotic Premix TDS",
+    "type": "TDS",
+    "fileName": "probiotic_tds.pdf",
+    "description": "Technical data sheet with specifications and recommended applications."
+  }
+]
